@@ -2,6 +2,8 @@
 
 - I'm A Junior Software Developer
 
+https://www.codewars.com/users/tttest1/badges/large
+
 ### Tech Stack
 
 - Java
