@@ -2,7 +2,7 @@
 
 - I'm A Junior Software Developer
 
-![Codewars Badge](https://www.codewars.com/users/provaa1/badges/large)
+![Codewars Badge](https://www.codewars.com/users/ilda-05/badges/large)
 
 ### Tech Stack
 
