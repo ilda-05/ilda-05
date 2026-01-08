@@ -7,7 +7,7 @@
 ### Tech Stack
 
 - Java
-- Spring
+- Spring Boot
 - C#
 - .NET
 - Python
