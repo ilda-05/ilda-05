@@ -2,8 +2,6 @@
 
 - I'm A Junior Software Developer
 
-![Codewars Badge](https://www.codewars.com/users/ilda-05/badges/large)
-
 ### Tech Stack
 
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
