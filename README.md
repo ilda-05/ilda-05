@@ -6,10 +6,10 @@
 
 ### Currently learning :
 
-Angular
-Java
-Spring
-C/C++
+- Angular
+- Java
+- Spring
+- C/C++
 
 
 ### Tech Stack
