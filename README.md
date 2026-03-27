@@ -4,11 +4,9 @@
 
 - I'm A Junior Software Developer
 
-### Currently working on a private project
-
-### Currently learning :
-
-- C++
+### Currently :
+- Working on a private project.
+- Improving my c++ skills
 
 
 ### Tech Stack
