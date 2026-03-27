@@ -8,10 +8,7 @@
 
 ### Currently learning :
 
-- Angular
-- Java
-- Spring
-- C/C++
+- C++
 
 
 ### Tech Stack
