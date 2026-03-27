@@ -1,4 +1,5 @@
-<h2 align=center>Hi There</h2>
+<p align=center>Hi There</p>
+<p  align=center><img src="https://avatars.githubusercontent.com/u/191975905?v=4" height="150px"></p>
 <h1 align=center>ilda-05</h1>
 
 - I'm A Junior Software Developer
