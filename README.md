@@ -5,7 +5,6 @@
 - I'm A Junior Software Developer
 
 ### Currently :
-- Working on a private project.
 - Improving my c/c++ skills
 - Studying 
 
