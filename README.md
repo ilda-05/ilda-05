@@ -6,7 +6,7 @@
 
 ### Currently :
 - Working on a private project.
-- Improving my c++ skills
+- Improving my c/c++ skills
 - Studying 
 
 ### Tech Stack
